@@ -1,0 +1,8 @@
+Python is a general purpose,dynamically typed,high level language developed by "GUIDO VAN ROSSUM" in the year of 1991 at cwi in neherland.
+
+NOTES:
+PYTHON is also a interpreted language.It can be used to build almost any data type of application with right tools and libraries.
+
+CWI(CENTRUM WISKUNDE & INFORMATICA) is famous institute as the creation site of the programming language python.It was a founding member of the European Research Consortium for Informatics and Mathematics(ERCIM).
+
+

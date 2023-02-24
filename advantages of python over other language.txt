@@ -1,0 +1,11 @@
+Advantages of python over other programming languages:
+
+It's simple.
+It's free.
+It's easy use to use.
+It's highly compatible.
+It's is highly compatible.
+It's is object oriented.
+It's has lots of libraries.
+It's has built in data structures.
+It's widely applicable.
